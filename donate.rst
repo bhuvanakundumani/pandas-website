@@ -4,13 +4,17 @@ Donations
 
 The *pandas* Project will always be 100% open source software, free for all to use and released under the liberal terms of the modified BSD license. If you have found *pandas* to be useful in your work, research or company, please consider making a donation to the project commensurate with your resources. Any amount helps! All donations will be used strictly to fund the development of the *pandas* Projects's open source software, documentation and community.
 
-Donations are managed by the `NumFOCUS <http://www.numfocus.org/open-source-projects.html>`__ Foundation, which is the legal and fiscal umbrella for the project. NumFOCUS is a 501(c)3 non-profit foundation, so if you are subject to US Tax law, your contributions will be tax-deductible.
+*pandas* is a Sponsored Project of NumFOCUS, a 501(c)(3) nonprofit charity in the United States. NumFOCUS provides *pandas* with fiscal, legal, and administrative support to help ensure the health and sustainability of the project. Visit `numfocus.org <https://www.numfocus.org/>` for more information.
+
+Donations to *pandas* are managed by NumFOCUS. For donors in the United States, your gift is tax-deductible to the extent provided by law. As with any donation, you should consult with your tax adviser about your particular tax situation.
+
+You can donate to pandas at https://numfocus.salsalabs.org/donate-to-pandas, or by using the following form.
 
 .. raw:: html
 
-    <div style="text-align: center;">
-    <iframe style="height: 325px;width: 300px;border: medium none; display:inline-block;" src="https://www.flipcause.com/embed/html_widget/MzA3OA=="></iframe>
-    </div>
+   <div id="c3a7d378-061d-4979-b13e-430002d56452">
+     <script type="text/javascript" src="https://default.salsalabs.org/api/widget/template/4ba4e328-1855-47c8-9a89-63e4757d2151/?tId=c3a7d378-061d-4979-b13e-430002d56452"></script>
+   </div>
 
 You can support pandas by becoming a `Tidelift subscriber <https://tidelift.com/subscription/pkg/pypi-pandas?utm_source=pypi-pandas&utm_medium=referral&utm_campaign=readme>`__.
 
